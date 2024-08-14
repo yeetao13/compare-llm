@@ -15,7 +15,7 @@ This repository contains a Streamlit application for comparing the outputs of di
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/llm-comparison-app.git
+git clone https://github.com/yeetao13/compare-llm.git
 cd llm-comparison-app
 ```
 ### 2. Set Up a Virtual Environment
