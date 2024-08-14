@@ -53,5 +53,6 @@ After setting up your environment and .env file, you can run the Streamlit app u
 streamlit run app.py
 ```
 
-![image](https://github.com/user-attachments/assets/bbd0751d-3b12-4108-80d1-937942c8e1d2)
+![image](https://github.com/user-attachments/assets/e889db68-6899-4a81-b0f6-5dc4b93d5490)
+
 
