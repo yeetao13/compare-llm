@@ -16,7 +16,7 @@ First, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/yeetao13/compare-llm.git
-cd llm-comparison-app
+cd compare-llm
 ```
 ### 2. Set Up a Virtual Environment
 
