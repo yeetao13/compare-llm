@@ -52,3 +52,6 @@ After setting up your environment and .env file, you can run the Streamlit app u
 ```bash
 streamlit run app.py
 ```
+
+![image](https://github.com/user-attachments/assets/bbd0751d-3b12-4108-80d1-937942c8e1d2)
+
