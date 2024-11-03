@@ -1,4 +1,4 @@
-# LLM Model Comparison WebApp
+# LLM Comparison WebApp
 
 This repository contains a Streamlit application for comparing the outputs of different Language Models (LLMs) side by side. The app allows users to select two models, enter a custom prompt, and view the generated responses for easy comparison.
 
