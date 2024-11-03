@@ -55,7 +55,8 @@ streamlit run app.py
 
 ### 6. The interface of the system
 
-![image](https://github.com/user-attachments/assets/8e5a287e-5ec7-4b6f-8f8d-e54a00d7cba4)
+![image](https://github.com/user-attachments/assets/940befe0-3845-42a0-90c1-defb05a6daa5)
+
 
 
 
