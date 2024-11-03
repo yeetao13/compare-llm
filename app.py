@@ -25,7 +25,7 @@ if selected == "Introduction":
     st.title("Welcome to the LLM Model Comparison App")
     st.write("""
         ### Overview
-        The LLM Model Comparison App is designed to help you compare the outputs of various language models (LLMs). 
+        The LLM Comparison App is designed to help you compare the outputs of various language models (LLMs). 
         These models can generate human-like text based on the prompts you provide. This tool is particularly useful 
         for researchers, developers, and anyone interested in understanding how different language models perform 
         on the same input.
