@@ -22,7 +22,7 @@ with st.sidebar:
 
 # Enhanced Introduction Page
 if selected == "Introduction":
-    st.title("Welcome to the LLM Model Comparison App")
+    st.title("Welcome to the LLM Comparison App")
     st.write("""
         ### Overview
         The LLM Comparison App is designed to help you compare the outputs of various language models (LLMs). 
